@@ -90,6 +90,8 @@ Tabel data pengguna telah dilengkapi dengan **CSS Modern** yang mencakup:
 * Desain tombol aksi (Ubah & Hapus) yang intuitif.
 * Layout responsif menggunakan Sidebar dan Header.
 
-## 🎓 Kesimpulan
-
-Melalui praktikum ini, mahasiswa berhasil memahami cara kerja framework modern yang memisahkan antara **Logika (Class)**, **Kontrol (Routing)**, dan **Tampilan (Template)**. Sistem ini memudahkan pengembangan aplikasi skala besar karena kode lebih terorganisir dan mudah dikelola (*maintainable*).
+Output:
+<p align="center">
+<img src="img/img1.png" width="70%">
+</p>
+<br>
